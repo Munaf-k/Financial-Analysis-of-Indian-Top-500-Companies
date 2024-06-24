@@ -8,7 +8,6 @@ This repository contains the financial analysis project conducted during my Data
 
 - To understand the market position and performance of India's top 500 companies.
 - To identify key insights and trends in market capitalization, earnings, revenue, employee count, and dividend yield.
-- To provide actionable insights for investment strategies.
 
 ## Data Source
 
